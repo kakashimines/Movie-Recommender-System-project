@@ -12,7 +12,7 @@ The system is powered by:
 3.Hybrid approach which combines the two techniques for improvement on acuracy.
 
 #Dataset.
-The dataset used to carry out this project was imported from kaggle.The excel sheet used is one that has been filtered out to fulfil the needs of the project.
+The dataset used to carry out this project was imported from kaggle. The dataset imported (movie recommendation system) had csv files for movies, tags, ratings and links, which we later combined to form the movie recommender system. The excel sheet used is one that has been filtered out to fulfil the needs of the project.
 #Requirements.
 •	Python 3.13.0
 •	pandas
